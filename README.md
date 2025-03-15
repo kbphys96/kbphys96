@@ -5,8 +5,6 @@
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, C++, Java, MATLAB
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 
 ## 🔭 Current Projects
@@ -20,7 +18,7 @@ I'm currently learning more about DevOps practices and cloud technologies to enh
 
 ## 📫 Let's Connect!
 
-- **Email:** [kbphys96@example.com](mailto:kbphys96@example.com)
+- **Email:** [kbphys96@gmail.com](mailto:kbphys96@example.com)
 - **LinkedIn:** [linkedin.com/in/kbphys96](https://linkedin.com/in/kbphys96)
 - **Twitter:** [@kbphys96](https://twitter.com/kbphys96)
 
