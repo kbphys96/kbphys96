@@ -13,7 +13,8 @@ Results-driven Data Scientist with a postgraduate degree in Physics from IIT Dha
 
 ## 🌱 Learning & Growth
 
-I'm currently learning more about DevOps practices and cloud technologies to enhance my skills in deploying and scaling applications.
+I am committed to continuous learning and professional development in the field of Data Science. Currently enhancing my expertise in advanced areas such as machine learning, deep learning, natural language processing (NLP), and predictive analytics through hands-on projects and specialized coursework. I regularly work with real-world datasets to strengthen my skills in data preprocessing, feature engineering, model evaluation, and statistical analysis. Actively exploring advanced techniques in ensemble learning, model optimization, and time-series forecasting, I stay engaged with the latest trends in AI and data-driven technologies. I am passionate about applying these evolving skills to solve complex business problems and generate meaningful insights.
+
 
 ## 📫 Let's Connect!
 
