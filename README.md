@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kulbhushan Nautiyal
 
-**Results-driven Data Scientist with a postgraduate degree in Physics from IIT Dhanbad, specializing in data analysis, statistical modeling, and machine learning. Proficient in Python and SQL, with hands-on expertise in Pandas, NumPy, Scikit-learn, Power BI, and Excel for building scalable, data-driven solutions. Skilled in data cleaning, feature engineering, and visualization to extract actionable insights from complex datasets. Adept at applying statistical methods to solve real-world problems and support strategic decision-making. A fast learner with a strong analytical mindset, committed to continuous learning and delivering impactful results in collaborative team environments.
+** Results-driven Data Scientist with a postgraduate degree in Physics from IIT Dhanbad, specializing in data analysis, statistical modeling, and machine learning. Proficient in Python and SQL, with hands-on expertise in Pandas, NumPy, Scikit-learn, Power BI, and Excel for building scalable, data-driven solutions. Skilled in data cleaning, feature engineering, and visualization to extract actionable insights from complex datasets. Adept at applying statistical methods to solve real-world problems and support strategic decision-making. A fast learner with a strong analytical mindset, committed to continuous learning and delivering impactful results in collaborative team environments.
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, C++, MATLAB
