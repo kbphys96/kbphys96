@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm kbphys96
+# Hi there! 👋 I'm Kulbhushan Nautiyal
 
 **Welcome to my GitHub profile!** I'm a passionate developer with a keen interest in physics and technology. I love exploring new programming languages, frameworks, and contributing to open-source projects. 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, C++, Java, MATLAB
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Languages:** Python, JavaScript, C++, MATLAB
+- **Tools:** Excel, SQL, Power BI, Scikit-learn, Pandas, Numpy, Statistical Model , ML Algo, Tensor Flow, PyTorch, Git, Docker, Jenkins
 
 ## 🔭 Current Projects
 
@@ -18,9 +18,10 @@ I'm currently learning more about DevOps practices and cloud technologies to enh
 
 ## 📫 Let's Connect!
 
-- **Email:** [kbphys96@gmail.com](mailto:kbphys96@example.com)
-- **LinkedIn:** [linkedin.com/in/kbphys96](https://linkedin.com/in/kbphys96)
-- **Twitter:** [@kbphys96](https://twitter.com/kbphys96)
+- **Email:** [kbphys96@gmail.com](mailto:kulbhushannautiyal88100@gmail.com)
+- **LinkedIn:** [linkedin.com/in/kulbhushan](
+www.linkedin.com/in/kulbhushan-nautiyal-518670308)
+
 
 ## 💬 Get In Touch
 
