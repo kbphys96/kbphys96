@@ -1,24 +1,49 @@
 # Hi there! 👋 I'm Kulbhushan Nautiyal
 
-Results-driven Data Scientist with a postgraduate degree in Physics from IIT Dhanbad, specializing in data analysis, statistical modeling, and machine learning. Proficient in Python and SQL, with hands-on expertise in Pandas, NumPy, Scikit-learn, Power BI, and Excel for building scalable, data-driven solutions. Skilled in data cleaning, feature engineering, and visualization to extract actionable insights from complex datasets. Adept at applying statistical methods to solve real-world problems and support strategic decision-making. A fast learner with a strong analytical mindset, committed to continuous learning and delivering impactful results in collaborative team environments.
+Results-driven Data Scientist with a strong foundation in Physics from IIT Dhanbad and a deep interest in Natural Language Processing (NLP) and Large Language Models (LLMs). Experienced in designing, fine-tuning, and deploying transformer-based models for real-world applications. Proficient in Python and SQL, with hands-on expertise in tools like Hugging Face Transformers, LangChain, Scikit-learn, Pandas, and NumPy. Skilled in RAG pipelines, prompt engineering, data preprocessing, and model evaluation. Passionate about applying AI to solve complex problems, delivering scalable solutions, and continuously learning in dynamic team environments.
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, C++, MATLAB
-- **Tools:** Excel, SQL, Power BI, Scikit-learn, Pandas, Numpy, Statistical Model , ML Algo, Tensor Flow, PyTorch, Git, Docker, Jenkins
+- **Tools & Technologies:**
+Programming & Scripting: Python, SQL, Bash
+
+NLP & LLMs: Hugging Face Transformers, LangChain, SpaCy, NLTK, OpenAI API
+
+Machine Learning: Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch
+
+Data Handling: Pandas, NumPy, Dask
+
+Visualization: Matplotlib, Seaborn, Plotly, Power BI, Excel
+
+Model Deployment: FastAPI, Docker, Streamlit, Gradio, Flask
+
+MLOps & Workflow: Git, GitHub, MLflow, Weights & Biases
+
+Cloud Platforms: AWS (S3, EC2), Google Colab, Hugging Face Hub
+
+Databases: MySQL, PostgreSQL, MongoDB
+
+Other Tools: Jupyter Notebook, VS Code, Google Sheets
+
 
 ## 🔭 Current Projects
 
 - **[Project A](https://github.com/kbphys96/project-a):** A web application for managing scientific data and visualizations.
 - **[Project B](https://github.com/kbphys96/project-b):** An open-source library for numerical simulations in physics.
 
-## 🌱 Learning & Growth
+##  📚 Learning & Growth
+Continuously exploring advancements in LLMs, Generative AI, and Retrieval-Augmented Generation (RAG) systems
 
-I am committed to continuous learning and professional development in the field of Data Science. Currently enhancing my expertise in advanced areas such as machine learning, deep learning, natural language processing (NLP), and predictive analytics through hands-on projects and specialized coursework. I regularly work with real-world datasets to strengthen my skills in data preprocessing, feature engineering, model evaluation, and statistical analysis. Actively exploring advanced techniques in ensemble learning, model optimization, and time-series forecasting, I stay engaged with the latest trends in AI and data-driven technologies. I am passionate about applying these evolving skills to solve complex business problems and generate meaningful insights.
+Regularly participate in online courses, research papers, and hands-on projects to deepen knowledge in NLP, prompt engineering, and model deployment
 
+Stay updated with new tools from the Hugging Face ecosystem, LangChain, and other open-source AI communities
+
+Committed to improving problem-solving, system design, and scalable AI solution architecture
+
+Engage with communities on GitHub, Medium, and LinkedIn to share knowledge and learn from industry peers
 
 ## 📫 Let's Connect!
 
-- **Email:** [kbphys96@gmail.com](mailto:kulbhushannautiyal88100@gmail.com)
+- **Email:** [kbphys96@gmail.com](mailto:kbphys96@gmail.com)
 - **LinkedIn:** [linkedin.com/in/kulbhushan](
 www.linkedin.com/in/kulbhushan-nautiyal-518670308)
 
