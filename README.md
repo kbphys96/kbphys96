@@ -3,7 +3,6 @@
 Results-driven Data Scientist with a strong foundation in Physics from IIT Dhanbad and a deep interest in Natural Language Processing (NLP) and Large Language Models (LLMs). Experienced in designing, fine-tuning, and deploying transformer-based models for real-world applications. Proficient in Python and SQL, with hands-on expertise in tools like Hugging Face Transformers, LangChain, Scikit-learn, Pandas, and NumPy. Skilled in RAG pipelines, prompt engineering, data preprocessing, and model evaluation. Passionate about applying AI to solve complex problems, delivering scalable solutions, and continuously learning in dynamic team environments.
 ## 🛠️ Technologies & Tools
 
-- **Tools & Technologies:**
 Programming & Scripting: Python, SQL, Bash
 
 NLP & LLMs: Hugging Face Transformers, LangChain, SpaCy, NLTK, OpenAI API
@@ -31,6 +30,7 @@ Other Tools: Jupyter Notebook, VS Code, Google Sheets
 - **[Project B](https://github.com/kbphys96/project-b):** An open-source library for numerical simulations in physics.
 
 ##  📚 Learning & Growth
+
 Continuously exploring advancements in LLMs, Generative AI, and Retrieval-Augmented Generation (RAG) systems
 
 Regularly participate in online courses, research papers, and hands-on projects to deepen knowledge in NLP, prompt engineering, and model deployment
