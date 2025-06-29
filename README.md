@@ -45,7 +45,8 @@ Engage with communities on GitHub, Medium, and LinkedIn to share knowledge and l
 
 - **Email:** [kbphys96@gmail.com](mailto:kbphys96@gmail.com)
 - **LinkedIn:** [linkedin.com/in/kulbhushan](
-www.linkedin.com/in/kulbhushan-nautiyal-518670308)
+www.linkedin.com/in/kulbhushan-nautiyal-518670308
+)
 
 
 ## 💬 Get In Touch
