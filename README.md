@@ -1,59 +1,80 @@
-# Hi there! 👋 I'm Kulbhushan Nautiyal
+# 👋 Hi, I'm Kulbhushan Nautiyal
 
-Results-driven Data Scientist with a strong foundation in Physics from IIT Dhanbad and a deep interest in Natural Language Processing (NLP) and Large Language Models (LLMs). Experienced in designing, fine-tuning, and deploying transformer-based models for real-world applications. Proficient in Python and SQL, with hands-on expertise in tools like Hugging Face Transformers, LangChain, Scikit-learn, Pandas, and NumPy. Skilled in RAG pipelines, prompt engineering, data preprocessing, and model evaluation. Passionate about applying AI to solve complex problems, delivering scalable solutions, and continuously learning in dynamic team environments.
-## 🛠️ Technologies & Tools
+**Data Scientist | NLP & LLM Engineer | Cloud & DevOps Enthusiast**
 
-Programming & Scripting: Python, SQL, Bash
+Welcome to my GitHub! I'm passionate about building intelligent systems powered by machine learning, natural language processing, and scalable cloud infrastructure.
 
-NLP & LLMs: Hugging Face Transformers, LangChain, SpaCy, NLTK, OpenAI API
+---
 
-Machine Learning: Scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch
+## 🧠 What I Do
 
-Data Handling: Pandas, NumPy, Dask
+- 🔍 **Natural Language Processing (NLP)** — Transformers, RAG pipelines, semantic search
+- 🤖 **LLMs & Generative AI** — Prompt engineering, LangChain, OpenAI, Hugging Face
+- ⚙️ **Machine Learning & MLOps** — Model building, experiment tracking, and robust deployment
+- ☁️ **Cloud & DevOps** — Automating deployments and managing scalable AI/ML solutions
 
-Visualization: Matplotlib, Seaborn, Plotly, Power BI, Excel
+---
 
-Model Deployment: FastAPI, Docker, Streamlit, Gradio, Flask
+## 💼 Tech Stack
 
-MLOps & Workflow: Git, GitHub, MLflow, Weights & Biases
+### 🧑‍💻 **Programming & Scripting**
+`Python` • `SQL` • `Bash`
 
-Cloud Platforms: AWS (S3, EC2), Google Colab, Hugging Face Hub
+### 📚 **NLP & LLMs**
+`Hugging Face Transformers` • `LangChain` • `SpaCy` • `NLTK` • `OpenAI API`
 
-Databases: MySQL, PostgreSQL, MongoDB
+### 🤖 **Machine Learning**
+`Scikit-learn` • `XGBoost` • `LightGBM` • `TensorFlow` • `PyTorch`
 
-Other Tools: Jupyter Notebook, VS Code, Google Sheets
+### 🧮 **Data Handling**
+`Pandas` • `NumPy` • `Dask`
 
+### 📊 **Data Visualization**
+`Matplotlib` • `Seaborn` • `Plotly` • `Power BI` • `Excel`
 
-## 🔭 Current Projects
+### 🚀 **Model Deployment**
+`FastAPI` • `Docker` • `Streamlit` • `Gradio` • `Flask`
 
-- **[Project A](https://github.com/kbphys96/project-a):** A web application for managing scientific data and visualizations.
-- **[Project B](https://github.com/kbphys96/project-b):** An open-source library for numerical simulations in physics.
+### 🔁 **MLOps & Workflow**
+`Git` • `GitHub` • `MLflow` • `Weights & Biases` (W&B)
 
-##  📚 Learning & Growth
+### ☁️ **Cloud & DevOps Tools**
+`AWS (S3, EC2)` • `Google Colab` • `Hugging Face Hub`  
+`GitHub Actions` • `Docker Hub` • `Terraform` (basic) • `NGINX` • `Linux` • `CI/CD Pipelines`
 
-Continuously exploring advancements in LLMs, Generative AI, and Retrieval-Augmented Generation (RAG) systems
+### 🗃️ **Databases**
+`MySQL` • `PostgreSQL` • `MongoDB`
 
-Regularly participate in online courses, research papers, and hands-on projects to deepen knowledge in NLP, prompt engineering, and model deployment
+### 🛠️ **Other Tools**
+`Jupyter Notebook` • `VS Code` • `Google Sheets`
 
-Stay updated with new tools from the Hugging Face ecosystem, LangChain, and other open-source AI communities
+---
 
-Committed to improving problem-solving, system design, and scalable AI solution architecture
+## 📌 Featured Projects
 
-Engage with communities on GitHub, Medium, and LinkedIn to share knowledge and learn from industry peers
+- 🧾 **RAG-based Academic QA Bot**  
+  Retrieval-augmented LLM for question-answering using Hugging Face, FAISS, and OpenAI.
 
-## 📫 Let's Connect!
+- 🔍 **Semantic Search Engine**  
+  Real-time document similarity app with sentence-transformers and Streamlit.
 
-- [Email me](mailto:kulbhushannautiyal88100@gmail.com)
+- 🧪 **Material Property Prediction**  
+  Regression models to predict physical properties of materials using XGBoost.
 
-- [LinkedIn](https://www.linkedin.com/in/kulbhushan-nautiyal-518670308)
+➡️ Explore more in the pinned repos below 👇
 
+---
 
+## 📫 Let's Connect
 
+- 📧 [kbphys96@gmail.com](mailto:kbphys96@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kulbhushan-nautiyal-518670308)  
+- 💻 Portfolio: *Coming Soon*
 
-## 💬 Get In Touch
+---
 
-Feel free to open an issue or reach out to me if you have any questions, suggestions, or just want to chat about tech, physics, or anything else!
+> _“Data is the new oil. Insight is the spark.”_
+> “Data will talk to you if you're willing to listen.” – Jim Bergeson
 
-**Thanks for visiting my profile! Have a great day!**
+Thanks for visiting!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kbphys96&show_icons=true&theme=radical)
